@@ -1,4 +1,4 @@
-#Mon Feb 05 07:26:19 PST 2018
-base.0=/home/james/Documents/jejewittSubBook/app/build/intermediates/transforms/dexMerger/debug/59
+#Mon Feb 05 12:34:54 PST 2018
+base.0=/home/james/Documents/jejewittSubBook/app/build/intermediates/transforms/dexMerger/debug/78
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Mon Feb 05 12:22:34 PST 2018
+#Mon Feb 05 12:35:21 PST 2018
 0.baseType=DIRECTORY
-0.base=/home/james/Documents/jejewittSubBook/app/build/intermediates/transforms/dexMerger/debug/76
+0.base=/home/james/Documents/jejewittSubBook/app/build/intermediates/transforms/dexMerger/debug/95
 0.path=classes.dex
 0.set=DEX
 count=1
